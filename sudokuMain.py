@@ -87,6 +87,7 @@
 # cv2.waitKey(0)
 
 import streamlit as st
+!pip install opencv-python
 import cv2
 import numpy as np
 from PIL import Image
